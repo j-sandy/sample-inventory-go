@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"sample-inventory-go/handlers"
-	"sample-inventory-go/middleware"
-	"sample-inventory-go/store"
+	"sample-inventory-go/src/handlers"
+	"sample-inventory-go/src/middleware"
+	"sample-inventory-go/src/store"
 
 	"github.com/gorilla/mux"
 )

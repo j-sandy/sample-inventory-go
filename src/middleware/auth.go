@@ -2,8 +2,8 @@ package middleware
 
 import (
 	"net/http"
-	"sample-inventory-go/store"
-	"sample-inventory-go/utils"
+	"sample-inventory-go/src/store"
+	"sample-inventory-go/src/utils"
 	"strings"
 )
 

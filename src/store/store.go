@@ -1,7 +1,7 @@
 package store
 
 import (
-	"sample-inventory-go/models"
+	"sample-inventory-go/src/models"
 	"sync"
 )
 

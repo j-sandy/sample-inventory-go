@@ -3,10 +3,10 @@ package handlers
 import (
 	"encoding/json"
 	"net/http"
-	"sample-inventory-go/models"
+	"sample-inventory-go/src/models"
 	"strings"
-	"sample-inventory-go/store"
-	"sample-inventory-go/utils"
+	"sample-inventory-go/src/store"
+	"sample-inventory-go/src/utils"
 
 	"github.com/google/uuid"
 	"github.com/gorilla/mux"
