@@ -1,0 +1,23 @@
+# Binaries for programs and plugins
+*.exe
+*.test
+*.out
+
+# Go workspace file
+go.work
+
+# Dependency directories
+vendor/
+
+# Build artifacts
+bin/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Go module cache
+pkg/mod/
+
+# Log files
+*.log
