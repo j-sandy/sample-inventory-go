@@ -1,4 +1,4 @@
-# E-commerce Inventory Backend API (Go)
+# E-commerce Inventory Backend API (Go) Project
 
 A RESTful API for managing e-commerce inventory with session-based authentication, built with Go and an in-memory database. This project provides a simple yet functional backend for inventory management, demonstrating common API patterns and Go best practices.
 
